@@ -1,0 +1,11 @@
+-> C# or dotnet assignment left to be done
+# JAVA: (TOPICS learnt) --- (BASICS):
+-> Java complier and their environment and usage --> DONE 
+-> Variable declaration --> DONE 
+-> Usage of arguments via main method --> DONE 
+-> conditional checking and rendering --> DONE 
+-> array list --> DONE
+-> 2d array list --> DONE
+-> Foreach Loop --> DONE 
+-> Switch Statement --> DONE 
+ 
