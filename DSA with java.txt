@@ -21,12 +21,12 @@ Introduction --> DONE
 Scoping in Java --> DONE
 Variable Length Arguments --> DONE
 Overloading --> DONE
-Arrays
+Arrays -> DONE
 Shadowing
 Introduction 
-Memory management
-Input and Output
-Array List Introduction
+Memory management -> DONE 
+Input and Output -> Done
+Array List Introduction -> DONE
 Searching
 Linear Search
 Binary Search
