@@ -1,0 +1,14 @@
+Intern Task:
+-> Matrial UI sikne along with styled components --> done
+-> Project page --> Done for now 
+
+-> About page left
+-> Contact page left
+
+Daily posting:
+--> Arrays and String more deeper knowledge 
+
+C#:
+Code in C# given by sir without looking.
+6 questions.
+
