@@ -2,6 +2,8 @@ Intern Task:
 -> Matrial UI sikne along with styled components --> done
 -> Project page --> Done for now 
 
+-> Formik and yup implementation in the contact section ===> TMR 
+
 -> About page left
 -> Contact page left
 
